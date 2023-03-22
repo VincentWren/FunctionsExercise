@@ -2,8 +2,12 @@
 function fozzieBear() {
     console.log(`Wocka Wocka!`);
 }
+fozzieBear();
 
 function beaker(speak){
+    console.log(`${speak}`);
+    console.log(`${speak}`);
+    console.log(`${speak}`);
     console.log(`${speak}`);
 }
 beaker(`Meep`);
